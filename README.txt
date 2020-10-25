@@ -29,6 +29,7 @@ This project includes the following files:
 	4) Labelled variables names with describptive names from 'features.txt' and changed the names to low case variable names and removing special characters such as -(). Changed "prefix t' to 'time' and 'prefix f' to 'freq'
 	5) From the data set in step 4, created a second, independent tidy data set 'alldatac' with the average of each variable for each activity and each subject.
 
+- 'alldatax.txt': Independent tidy data set with the average of each variable for each activity and each subject.
 The following files are used from the train and test data
 
 - 'features.txt': List of all features.
